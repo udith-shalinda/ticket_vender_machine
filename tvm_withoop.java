@@ -176,16 +176,7 @@ class money_input_handle implements Serializable{
 		static int one;
 		static int total = 0;
 	
-		int thousand1;
-		int fivehunderd1;
-		int hundred1;
-		int fifty1;
-		int twenty1;
-		int ten1;
-		int five1;
-		int two1;
-		int one1;
-		int total1;
+		
 	
 		//money_input_handle(){}//can call without 9 parameters
 	/*money_input_handle(int thousand,int fivehunderd,int hundred,int fifty,int twenty,int ten,int five,int two,int one){
